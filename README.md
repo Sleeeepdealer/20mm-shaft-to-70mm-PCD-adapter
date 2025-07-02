@@ -1,4 +1,4 @@
-# 20mm-shaft-to-70mm-PCD-adapter
+# 22mm-shaft-to-70mm-PCD-adapter
 This repository contains the design files for a two-part adapter that allows for the mounting of steering wheels with a 70mm PCD bolt pattern onto 22mm shafts. The aim is to provide a simple, low-budget solution for DIY direct-drive wheel bases.  
 
 ## Features:
