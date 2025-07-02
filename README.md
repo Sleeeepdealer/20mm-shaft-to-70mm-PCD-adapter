@@ -5,7 +5,7 @@ This repository contains the design files for a two-part adapter that allows for
 - Three-piece design for easy installation. Compatible with standard 70mm PCD steering wheels and 22mm shafts
 
 ## Important:
-- You will need to use an expanding shaft lock in order to secure these plates to the 22-33 expansion sleeve shaft lock. Adapter design may not be compatible with all clamp types, so I will try my best to provide some links to the ones that do work.
+- You will need to use an expanding shaft lock in order to secure these plates to the 22-32 expansion sleeve shaft lock. Adapter design may not be compatible with all clamp types, so I will try my best to provide some links to the ones that do work.
   + [Aliexpress](https://www.aliexpress.com/item/1005006364971883.html)
   + [Meadler](https://maedler.de/Article/61562200 (COM-B 22-32))
   + [Amazon.uk](https://www.amazon.co.uk/Carbon-Locking-Assembly-TLK110-Diameter/dp/B0CPSR4GHF?crid=LK0VZY4T46ED&dib=eyJ2IjoiMSJ9.iV7U72jI8zWS1PRLkMDIFMcABQanJ_mN-Eg0MRAgTwOB-U3IapegP5lwXs6fVhEB24OVtJeDlWWf363Ets_U9INEmckkG7dDctOHZZPUE1YLapALAQX_1x27y5FgK_rAjr4_NutTbSQ9uh97PbxFeaZ4cpBHM0f1lNNV_NvxM0ONI5w4VjW58uQkrElz4b-iiCpekGEKVHeE1qG7HrAqaQB2ViHAGmXxOmrS_cXzXsyYG4GEG4YAWfr1GhzJcHucKHSy5a9rastn-3tASNSVnveAz33upMxsS7PKXYcsr_c.kfbReU9VZwvVP-vqybk3oLjITQ6ja7YwgRVAwWHhueU&dib_tag=se&keywords=22-32+shaft+lock&qid=1751476035&sprefix=22-32+shaft+lo,aps,315&sr=8-4&th=1)
