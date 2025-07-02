@@ -2,7 +2,7 @@
 This repository contains the design files for a two-part adapter that allows for the mounting of steering wheels with a 70mm PCD bolt pattern onto 22mm shafts. The aim is to provide a simple, low-budget solution for DIY direct-drive wheel bases.  
 
 ## Features:
-- Three-piece design for easy installation  Compatible with standard 70mm PCD steering wheels and 22mm shafts
+- Three-piece design for easy installation. Compatible with standard 70mm PCD steering wheels and 22mm shafts
 
 ## Important:
 - You will need to use an expanding shaft lock in order to secure these plates to the 22-33 expansion sleeve shaft lock. Adapter design may not be compatible with all clamp types, so I will try my best to provide some links to the ones that do work.
